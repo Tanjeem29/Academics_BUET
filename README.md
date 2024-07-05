@@ -52,4 +52,4 @@ This repository contains links to all my academic projects organized by level an
 ### Term 2 (L4T2)
 
 - [CSE462 - Algorithm Engineering](https://github.com/Tanjeem29/CSE404)
-- [CSE472 - Machine Learning](https://github.com/Tanjeem29/CSE404)
+- [CSE472 - Machine Learning](https://github.com/Tanjeem29/CSE472)
