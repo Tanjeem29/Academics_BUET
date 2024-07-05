@@ -29,10 +29,10 @@ This repository contains links to all my academic projects organized by level an
 
 ### Term 1 (L3T1)
 
-- [CSE306 - Computer Architecture](https://github.com/Tanjeem29/CSE303)
-- [CSE308 - Software Engineering](https://github.com/Tanjeem29/CSE303)
-- [CSE310 - Compiler](https://github.com/Tanjeem29/CSE303)
-- [CSE316 - Microprocessors and Microcontrollers](https://github.com/Tanjeem29/CSE303)
+- [CSE306 - Computer Architecture](https://github.com/Tanjeem29/CSE306)
+- [CSE308 - Software Engineering](https://github.com/Tanjeem29/CSE308)
+- [CSE310 - Compiler](https://github.com/Tanjeem29/CSE310)
+- [CSE316 - Microprocessors and Microcontrollers](https://github.com/Tanjeem29/CSE316)
 
 ### Term 2 (L3T2)
 
