@@ -46,7 +46,7 @@ This repository contains links to all my academic projects organized by level an
 ### Term 1 (L4T1)
 
 - [CSE406 - Computer Security](https://github.com/Tanjeem29/CSE303)
-- [CSE408 - Software Development](https://github.com/Tanjeem29/CSE303)
+- [CSE408 - Software Development](https://github.com/Tanjeem29/DoctorAid_CSE408_termProject)
 - [CSE410 - Computer Graphics](https://github.com/Tanjeem29/CSE410)
 
 ### Term 2 (L4T2)
