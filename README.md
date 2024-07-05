@@ -6,7 +6,7 @@ This repository contains links to all my academic projects organized by level an
 
 ### Term 1 (L1T1)
 
-- [CSE102 - Structured Programming Language]([https://github.com/Tanjeem29/CSE103](https://github.com/Tanjeem29/CSE102))
+- [CSE102 - Structured Programming Language](https://github.com/Tanjeem29/CSE102)
 
 ### Term 2 (L1T2)
 
