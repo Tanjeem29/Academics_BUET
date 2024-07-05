@@ -16,9 +16,9 @@ This repository contains links to all my academic projects organized by level an
 
 ### Term 1 (L2T1)
 
-- [CSE204 - Data Structures and Algorithms I](https://github.com/Tanjeem29/CSE203)
-- [CSE206 - Digital Logic Design](https://github.com/Tanjeem29/CSE203)
-- [CSE218 - Numerical Methods](https://github.com/Tanjeem29/CSE203)
+- [CSE204 - Data Structures and Algorithms I](https://github.com/Tanjeem29/CSE204.git)
+- [CSE206 - Digital Logic Design](https://github.com/Tanjeem29/CSE206)
+- [CSE218 - Numerical Methods](https://github.com/Tanjeem29/CSE218)
 
 ### Term 2 (L2T2)
 
