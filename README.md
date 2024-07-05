@@ -22,8 +22,8 @@ This repository contains links to all my academic projects organized by level an
 
 ### Term 2 (L2T2)
 
-- [CSE208 - Data Structures and Algorithms II](https://github.com/Tanjeem29/CSE204)
-- [CSE216 - Database](https://github.com/Tanjeem29/CSE204)
+- [CSE208 - Data Structures and Algorithms II](https://github.com/Tanjeem29/CSE208)
+- [CSE216 - Database](https://github.com/Tanjeem29/CSE216)
 
 ## Level 3
 
