@@ -39,7 +39,7 @@ This repository contains links to all my academic projects organized by level an
 - [CSE314 - Operating Systems](https://github.com/Tanjeem29/CSE303)
 - [CSE318 - Artificial Intelligence](https://github.com/Tanjeem29/CSE303)
 - [CSE322 - Computer Networks](https://github.com/Tanjeem29/CSE303)
-- [CSE326 _ Information Systemm Design](https://github.com/Tanjeem29/CSE303)
+- [CSE326 _ Information Systemm Design](https://github.com/Tanjeem29/CSE-326-Doctor-Aid)
 
 ## Level 4
 
