@@ -10,7 +10,7 @@ This repository contains links to all my academic projects organized by level an
 
 ### Term 2 (L1T2)
 
-- [CSE108 - Object Oriented Programming Language](https://github.com/Tanjeem29/CSE104)
+- [CSE108 - Object Oriented Programming Language](https://github.com/Tanjeem29/CSE108)
 
 ## Level 2
 
