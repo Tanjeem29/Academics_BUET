@@ -47,9 +47,9 @@ This repository contains links to all my academic projects organized by level an
 
 - [CSE406 - Computer Security](https://github.com/Tanjeem29/CSE303)
 - [CSE408 - Software Development](https://github.com/Tanjeem29/CSE303)
-- [CSE410 - Computer Graphics](https://github.com/Tanjeem29/CSE303)
+- [CSE410 - Computer Graphics](https://github.com/Tanjeem29/CSE410)
 
 ### Term 2 (L4T2)
 
-- [CSE462 - Algorithm Engineering](https://github.com/Tanjeem29/CSE404)
+- [CSE462 - Algorithm Engineering](https://github.com/Tanjeem29/CSE462)
 - [CSE472 - Machine Learning](https://github.com/Tanjeem29/CSE472)
